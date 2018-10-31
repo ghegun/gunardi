@@ -1,0 +1,7 @@
+{	
+    "require": {
+		"stripe/stripe-php": "^6.19",
+		"php": ">=5.5",
+		"ext-curl": "*"
+    }
+}

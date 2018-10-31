@@ -1,0 +1,27 @@
+Stripe\Product JSON: {
+  "id": "prod_DsuA9t48Djtyaa",
+  "object": "product",
+  "active": true,
+  "attributes": [
+    "size",
+    "gender"
+  ],
+  "caption": null,
+  "created": 1540948723,
+  "deactivate_on": [
+
+  ],
+  "description": "Comfortable gray cotton t-shirts",
+  "images": [
+
+  ],
+  "livemode": false,
+  "metadata": {
+  },
+  "name": "T-shirt",
+  "package_dimensions": null,
+  "shippable": true,
+  "type": "good",
+  "updated": 1540948723,
+  "url": null
+}
